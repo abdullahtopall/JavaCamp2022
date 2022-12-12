@@ -28,7 +28,7 @@ public class Main {
 		if(number1 == number2Bolum && number2 == number1Bolum) {
 			System.out.println(number1+" ve "+number2+" arkadas sayilardir");
 		} else {
-			System.out.println(number1+" ve "+number2+" arkadas sayilar degildir");
+			System.out.println(number1+" ve "+number2+" arkadas sayilar degildir");  
 		}
 		
 		

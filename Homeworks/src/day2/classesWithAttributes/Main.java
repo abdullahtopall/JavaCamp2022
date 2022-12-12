@@ -8,7 +8,7 @@ public class Main {
 		System.out.println(product.getName());
 
 		ProductManager productManager = new ProductManager();
-		productManager.Add(product);
+		productManager.add(product);
 
 	}
 
